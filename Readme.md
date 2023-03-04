@@ -1,9 +1,20 @@
-**Project Title**<br>
-Asisten Mata Kuliah (undecided official shorter name)
+***@Documents***<br>
+Folder containing :<br>
+- Weekly Status Report.docx (updated weekly)
+- Gantt-Chart Template.xlsx
+- Project Description
 <br><br>
-**Description**<br>
-Asisten Mata Kuliah adalah aplikasi yang sangat berguna buat mahasiswa dan mahasiswi yang sedang menghadapi kehidupan perkuliahan yang padat. Dalam aplikasi ini kamu bisa menemukan rekomendasi mata kuliah yang cocok untukmu, cara belajar ujian yang efektif, serta perhitungan beban kuliah agar kamu bisa merencanakan waktu dengan lebih baik.
+***@Personal Repo***<br>
+Containing folders named after the members of our group<br>
+Serves as a personal (yet share-able) folder space for them.
+<br><br>
+***Res***<br>
+Containing files related to the resources for the project.<br>
+May contain anything as long as it is related to the project.
+<br><br>
+***Push Request***<br>
+Please update everyone in the LINE group before comitting any push request to an existing file (overwriting)<br>It's also important to fetch and pull before you push. Fetching checks if there are any remote commits that you should incorporate into your local changes.
+***Pull Request***<br>
+before pulling changes from a remote repository in Github, it is a good idea to ***ensure that you have committed all your local changes and pushed them to the remote repository***.
 
-Tidak hanya itu, Asisten Mata Kuliah juga memberikan tips time management kuliah yang sangat berguna, sehingga kamu bisa mengatur waktu dengan lebih baik dan menghindari tugas-tugas yang menumpuk. Dan tentunya, aplikasi ini juga akan membantu kamu menemukan topik skripsi yang sesuai dengan minatmu.
-
-Jadi, jangan ragu untuk mengunduh Asisten Mata Kuliah, dan nikmati kemudahan serta kenyamanan dalam menghadapi kehidupan perkuliahanmu!
+If you have uncommitted changes, pulling changes from the remote repository could result in ***merge conflicts***, which can be challenging to resolve. Therefore, it's best to ***commit your changes and push them to the remote repository before pulling changes*** from the repository.
