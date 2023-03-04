@@ -16,7 +16,7 @@ Serves as a personal (yet share-able) folder space for them.
 Containing files related to the resources for the project.<br>
 May contain anything as long as it is related to the project.
 <br><br>
-## Warning
+# Warning
 ***Fetch before you Push***<br>
 Please update everyone in the LINE group before comitting any push request to an existing file (overwriting)<br>It's also important to fetch and pull before you push. Fetching checks if there are any remote commits that you should incorporate into your local changes.<br><br>
 ***Pull Request***<br>
