@@ -1,4 +1,4 @@
-# READ FOR INFORMATION
+# READ ME
 Current week : 0
 ## Folders (More folders may be present in the future)
 ***@Documents***<br>
