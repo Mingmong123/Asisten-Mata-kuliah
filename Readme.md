@@ -2,10 +2,7 @@
 Current week : 0
 ## Folders (More folders may be present in the future)
 ***@Documents***<br>
-Folder containing :<br>
-- Weekly Status Report.docx (updated frequently)
-- Gantt-Chart Template.xlsx (updated frequently)
-- Project Description
+Folder containing documents related to the project. Yes
 
 
 ***@Personal Repo***<br>
