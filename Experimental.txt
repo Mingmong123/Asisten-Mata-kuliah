@@ -1,0 +1,6 @@
+The "experimental" branch is a sandbox for testing out new features, ideas, and code changes
+without affecting the stability of the main branch. This branch is meant for experimentation 
+and is not guaranteed to be stable or bug-free. Use this branch to try out new features or make
+significant changes to the codebase that require testing before merging into the main branch. 
+Please keep in mind that any changes made to this branch may be overwritten or discarded at any time,
+and should not be considered final until they have been thoroughly tested and approved for release.
