@@ -1,5 +1,5 @@
 # READ ME
-Current week : 1
+Current week : 2
 ## Folders (More folders may be present in the future)
 ***@Documents***<br>
 Folder containing documents related to the project. Yes
